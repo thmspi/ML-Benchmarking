@@ -1,0 +1,6 @@
+data/datasets/
+data/models/
+Models\ from\ Maria/
+notebooks/
+
+scripts/__pycache__
